@@ -4,3 +4,10 @@
 
 **Control Flow Graph
 **![lab2_si](https://user-images.githubusercontent.com/56816715/171942824-01dc229d-b475-43ce-8516-1ef424906025.jpeg)
+
+**Цикломатска комплексност
+
+Број на ребра (edges) = 25
+Број на јазли (nodes) = 20
+Edges - nodes + 2 = 25 - 20 + 2 = 7
+Цикломатската комплексност е 7.
